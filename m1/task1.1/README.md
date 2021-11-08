@@ -45,6 +45,7 @@ git commit -m "added photos"
 
 
 Added 3 images into _images_ folder:
+
 ![photo](https://user-images.githubusercontent.com/86875795/124360648-a08d7500-dc33-11eb-98fe-446491f8184d.jpg)
 ![photo2](https://user-images.githubusercontent.com/86875795/124360676-be5ada00-dc33-11eb-8391-c8fc3892f223.jpg)
 ![photo3](https://user-images.githubusercontent.com/86875795/124360684-c6b31500-dc33-11eb-861f-a8089354e0b1.jpg)
