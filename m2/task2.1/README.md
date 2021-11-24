@@ -20,7 +20,7 @@ With System Center Virtual Machine Manager in Hyper-V, you can create private cl
 ![photo](https://a.radikal.ru/a04/2111/f4/645c230ec26f.jpg)
 
 ### 2. cloned an existing VM1 by creating a VM2
-![photo](https://d.radikal.ru/d23/2111/01/56395234f461.jpg)
+![photo](https://a.radikal.ru/a31/2111/cc/3f6913e5e361.jpg)
 
 ### 3. created a group of 2 VMs
 ![photo](https://a.radikal.ru/a39/2111/07/a6ad259d9980.jpg)
@@ -46,16 +46,16 @@ With System Center Virtual Machine Manager in Hyper-V, you can create private cl
 ![photo](https://a.radikal.ru/a36/2111/52/d95039e40ca5.jpg)
 
 ### 2. initialized the environment with the default Vagrant box
-![photo](https://d.radikal.ru/d00/2111/29/00d00a100aa1.jpg)
+![photo](https://b.radikal.ru/b27/2111/e3/03e0b4aea6a0.jpg)
 
 ### 3. ran vagrant up
-![photo](https://d.radikal.ru/d43/2111/be/c7e12dcb9bc3.jpg)
+![photo](https://a.radikal.ru/a39/2111/a5/d841a02b5ae8.jpg)
 
 ### 4. connected to the VM using PuTTY
 ![photo](https://b.radikal.ru/b24/2111/bf/c230a0e06baa.jpg)
 
 ### 5. recorded the date
-![photo](https://d.radikal.ru/d27/2111/c0/ca8c736e6817.jpg)
+![photo](https://c.radikal.ru/c01/2111/ea/d6dcf0acf7ef.jpg)
 
 ### 6. stopped and deleted VM
 ![photo](https://c.radikal.ru/c14/2111/12/9adc725d942b.jpg)
