@@ -17,7 +17,7 @@ With System Center Virtual Machine Manager in Hyper-V, you can create private cl
 ### PART 2. WORK WITH VIRTUALBOX
 
 ### 1. created VM and installed Ubuntu
-![photo](https://cdn1.savepice.ru/uploads/2021/11/16/79a23131c6e9ef1b6826ce364b594ef3-full.jpg)
+![photo](https://a.radikal.ru/a04/2111/f4/645c230ec26f.jpg)
 
 ### 2. cloned an existing VM1 by creating a VM2
 ![photo](https://cdn1.savepice.ru/uploads/2021/11/16/85f034f445012895d3a3150473c776c4-full.jpg)
