@@ -20,42 +20,42 @@ With System Center Virtual Machine Manager in Hyper-V, you can create private cl
 ![photo](https://a.radikal.ru/a04/2111/f4/645c230ec26f.jpg)
 
 ### 2. cloned an existing VM1 by creating a VM2
-![photo](https://cdn1.savepice.ru/uploads/2021/11/16/85f034f445012895d3a3150473c776c4-full.jpg)
+![photo](https://d.radikal.ru/d23/2111/01/56395234f461.jpg)
 
 ### 3. created a group of 2 VMs
-![photo](https://cdn1.savepice.ru/uploads/2021/11/16/09c9f9c787d09ed692a3cce11dfeea5a-full.jpg)
+![photo](https://a.radikal.ru/a39/2111/07/a6ad259d9980.jpg)
 
 ### 4. formed a branched tree of snapshots
-![photo](https://cdn1.savepice.ru/uploads/2021/11/16/f9ab82dce87c38ff4972e457c89739bc-full.jpg)
+![photo](https://c.radikal.ru/c17/2111/8b/e0e2c06a1546.jpg)
 
 ### 5. imported VM from *.ova file
-![photo](https://cdn1.savepice.ru/uploads/2021/11/16/15ae492457d6c8deb071299ee5eea45d-full.jpg)
+![photo](https://c.radikal.ru/c07/2111/67/d045da72c4b6.jpg)
 
 ### 6. configured the USB
-![photo](https://cdn1.savepice.ru/uploads/2021/11/16/a38345b60b8dbfac8d688246de38754a-full.jpg)
+![photo](https://c.radikal.ru/c33/2111/d4/10d059f567de.jpg)
 
 ### 7. configured a shared folder
-![photo](https://cdn1.savepice.ru/uploads/2021/11/16/1a55a02506e62760f828543e47f877a9-full.jpg)
+![photo](https://b.radikal.ru/b13/2111/aa/f9011035f261.jpg)
 
 ### 8. configured and checked the connections VMs
-![photo](https://cdn1.savepice.ru/uploads/2021/11/16/6ca70775294daea03ca141035c875996-full.jpg)
+![photo](https://b.radikal.ru/b38/2111/f1/d68bdc82f677.jpg)
 
 # PART 3. WORK WITH VAGRANT
 
 ### 1. created my folder
-![photo](https://cdn1.savepice.ru/uploads/2021/11/16/80968c822626e70b32be535fb231de01-full.jpg)
+![photo](https://a.radikal.ru/a36/2111/52/d95039e40ca5.jpg)
 
 ### 2. initialized the environment with the default Vagrant box
-![photo](https://cdn1.savepice.ru/uploads/2021/11/16/65b2e55d924c18f40043d272f281371a-full.jpg)
+![photo](https://d.radikal.ru/d00/2111/29/00d00a100aa1.jpg)
 
 ### 3. ran vagrant up
-![photo](https://cdn1.savepice.ru/uploads/2021/11/16/6dac1fac533a155e9625246b324e5531-full.jpg)
+![photo](https://d.radikal.ru/d43/2111/be/c7e12dcb9bc3.jpg)
 
 ### 4. connected to the VM using PuTTY
-![photo](https://cdn1.savepice.ru/uploads/2021/11/16/8caa11f5abb8653dea25d40e68ed407d-full.jpg)
+![photo](https://b.radikal.ru/b24/2111/bf/c230a0e06baa.jpg)
 
 ### 5. recorded the date
-![photo](https://cdn1.savepice.ru/uploads/2021/11/16/83da834ad547594e49515e32f9016e3c-full.jpg)
+![photo](https://d.radikal.ru/d27/2111/c0/ca8c736e6817.jpg)
 
 ### 6. stopped and deleted VM
-![photo](https://cdn1.savepice.ru/uploads/2021/11/16/f30820cabea30de5d882c612b3879cc7-full.jpg)
+![photo](https://c.radikal.ru/c14/2111/12/9adc725d942b.jpg)
