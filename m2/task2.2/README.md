@@ -24,7 +24,7 @@
 ![photo](https://b.radikal.ru/b08/2111/30/359c61897112.jpg)
 
 ### 8. uploaded files to S3
-![photo](https://d.radikal.ru/d17/2111/45/248abe8e601e.jpg)
+![photo](https://d.radikal.ru/d38/2111/26/291249e18ca6.jpg)
 
 ### 9. created my own domain and domain name for my site
 ![photo](https://c.radikal.ru/c19/2111/ef/b2c41999aebd.jpg)
