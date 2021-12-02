@@ -12,7 +12,7 @@
 ![photo](https://a.radikal.ru/a12/2112/4b/3aec3ad336c7.jpg)
 
 ### 3. checked the connection in Data Center
-![photo](https://d.radikal.ru/d30/2112/47/d764c76c387c.jpg)
+![photo](https://a.radikal.ru/a30/2112/29/d96d14d80aba.jpg)
 
 ### 4. Wireshark
 ![photo](https://a.radikal.ru/a30/2112/47/d45683f0fc01.png)
