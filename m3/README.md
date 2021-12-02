@@ -9,10 +9,10 @@
 ![photo](https://c.radikal.ru/c23/2112/d6/8dacdbfa7ae0.jpg)
 
 ### 2. checked the connection in Enterprise
-![photo](https://d.radikal.ru/d32/2112/6b/4247d053632d.jpg)
+![photo](https://a.radikal.ru/a12/2112/4b/3aec3ad336c7.jpg)
 
 ### 3. checked the connection in Data Center
-![photo](https://d.radikal.ru/d23/2112/63/cdb5b802ebdd.jpg)
+![photo](https://d.radikal.ru/d30/2112/47/d764c76c387c.jpg)
 
 ### 4. Wireshark
 ![photo](https://a.radikal.ru/a30/2112/47/d45683f0fc01.png)
@@ -32,7 +32,7 @@ TCP-порт отримувача: 443
 # Task 3.2
 
 ### 7. checked the connection with my default gateway
-![photo](https://d.radikal.ru/d24/2112/ca/b39ca2c27b2d.jpg)
+![photo](https://b.radikal.ru/b41/2112/48/fd946a05594a.jpg)
 
 ### 8. changed the subnet on 255.255.255.192 so subnet on servers doesn't match with default gateway
 ![photo](https://b.radikal.ru/b22/2112/7d/c07ca1f45d5d.jpg)
@@ -50,7 +50,7 @@ TCP-порт отримувача: 443
 # Task 3.3
 
 ### 12. checked the connection between client1 and web server2
-![photo](https://d.radikal.ru/d03/2112/a7/eb76fccc8571.jpg)
+![photo](https://c.radikal.ru/c37/2112/a8/aca1e0e1f20e.jpg)
 
 ### 13. configured RIP and checked the connection between client1 and web server2
 ![photo](https://c.radikal.ru/c24/2112/e9/f3f53e3623cc.jpg)
@@ -62,7 +62,7 @@ TCP-порт отримувача: 443
 ![photo](https://a.radikal.ru/a10/2112/ee/d22a87c7f440.jpg)
 
 ### 16. configured RIP ISP3
-![photo](https://d.radikal.ru/d32/2112/f9/65dacc69789e.jpg)
+![photo](https://a.radikal.ru/a21/2112/33/43138022361e.jpg)
 
 # Task 3.4
 
